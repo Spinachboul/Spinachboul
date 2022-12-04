@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @Spinachboul
-- 👀 I’m interested in DATA SCIENCE and COMPETITIVE PROGRAMMING
-- 🌱 I’m currently learning MACHINE LEARNING AND DEPLOYING MODELS 
-- 💞️ I'm looking forward to work on new projects and exciting hackathons.
-- 📫 How to reach me : email - jain.mridul.20@gmail.com
+- I am from INDIA and I practice MACHINE LEARNING and DEEP LEARNING. I really love working upon the programming languages like C/C++ or even C#. Python and JAVA are my first and second lovers :) I am also into competitive programming @codeforces (currenlty 2*). You can check out my LinkedIn at https://www.linkedin.com/in/mridul-jain-73a742238/
 
-<!---
-Spinachboul/Spinachboul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spinachboul)](https://github.com/anuraghazra/github-readme-stats)
