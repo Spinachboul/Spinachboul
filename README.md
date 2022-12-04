@@ -9,7 +9,7 @@ Skills: PYTHON / JAVA / FLASK / FLUTTER / FRONT - END DEVELOPMENT
 - 🔭 I’m currently working on my website 
 - 🌱 I’m currently learning Deep Learning with NLP 
 - 👯 I’m looking to collaborate on Different projects involving applications of Machine Learning and Data Structures and Algorithms 
-- 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/mridul-jain-73a742238/ 
+- 📫 How to reach me: email me @ jain.mridul.20@gmail.com 
 - ⚡ Fun fact: My parents never gave me a nick name :) 
 
 
