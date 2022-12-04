@@ -6,11 +6,14 @@ I am from INDIA and I practice MACHINE LEARNING and DEEP LEARNING. I really love
 
 Skills: PYTHON / JAVA / FLASK / FLUTTER / FRONT - END DEVELOPMENT
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my website 
+- 🌱 I’m currently learning Deep Learning with NLP 
+- 👯 I’m looking to collaborate on Different projects involving applications of Machine Learning and Data Structures and Algorithms 
+- 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/mridul-jain-73a742238/ 
+- ⚡ Fun fact: My parents never gave me a nick name :) 
 
 
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mridulmaze//)  
 
 
 
