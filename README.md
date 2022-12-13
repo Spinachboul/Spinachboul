@@ -4,10 +4,10 @@
 
 I am from INDIA and I practice MACHINE LEARNING and DEEP LEARNING. I really love working upon the programming languages like C/C++ or even C#. Python and JAVA are my first and second lovers :) I am also into competitive programming @codechef (currenlty 2*). You can check out my LinkedIn at https://www.linkedin.com/in/mridul-jain-73a742238/
 
-Skills: PYTHON / Node.js / JAVA / C-C++ / HTML-CSS-J / React
+Skills: PYTHON / Node.js / JAVA / C-C++ / HTML-CSS-JS / React
 
-- 🔭 I’m currently working on my website 
-- 🌱 I’m currently learning Deep Learning with NLP 
+- 🔭 I’m currently working on a crowdfunding website using Full Stack and a bit of Solidity
+- 🌱 I’m currently learning Azure and SQL
 - 👯 I’m looking to collaborate on Different projects involving applications of Machine Learning and Data Structures and Algorithms 
 - 📫 How to reach me: email me @ jain.mridul.20@gmail.com 
 - ⚡ Fun fact: My parents never gave me a nick name :) 
