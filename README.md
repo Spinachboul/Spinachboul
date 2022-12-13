@@ -6,8 +6,7 @@ I am from INDIA and I practice MACHINE LEARNING and DEEP LEARNING. I really love
 
 Skills: PYTHON / JAVA / FLASK / FLUTTER / FRONT - END DEVELOPMENT
 
-- 🔭 I’m currently working on my website 
-- 🌱 I’m currently learning Deep Learning with NLP 
+- 🌱 I’m currently learning Computer Networking with NLP 
 - 👯 I’m looking to collaborate on Different projects involving applications of Machine Learning and Data Structures and Algorithms 
 - 📫 How to reach me: email me @ jain.mridul.20@gmail.com 
 - ⚡ Fun fact: My parents never gave me a nick name :) 
