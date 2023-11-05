@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my online portfolio is available at [https://mridul-cv.vercel.app](mridul-cv.vercel.app)
+- 👨‍💻 All of my online portfolio is available at [Here!!](https://mridul-cv.vercel.app)
 
 - 📝 I regularly write articles on [Machine Learning and Data Science](Machine Learning and Data Science)
 
