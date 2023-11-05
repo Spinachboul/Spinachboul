@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jain.mridul.20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1927CJt_bnsjaLGY3PBBs9NQ9ZjrUB2sZ/view?usp=sharing](https://drive.google.com/file/d/1927CJt_bnsjaLGY3PBBs9NQ9ZjrUB2sZ/view?usp=sharing)
+- 📄 Know about my experiences [Click Here!!](https://drive.google.com/file/d/1927CJt_bnsjaLGY3PBBs9NQ9ZjrUB2sZ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I want to pursue modelling if not being a developer**
 
