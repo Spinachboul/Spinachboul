@@ -1,3 +1,38 @@
+<h1> Daily Puzzles </h1>
+<div id="puzzle-container">
+<p id="puzzle-of-the-day"> Loading...</p>
+</div>
+
+<script>
+  // Function to fetch and display a new puzzle daily
+  async function FetchandDisplay(){
+    try{
+      // Using a public API to fetch daily puzzles
+      const response =  await fetch('https://jsonplaceholder.typicode.com/posts/' + (new Date().getDate()));
+      const data = await response.json();
+
+      // Update the puzzle content on the page
+      document.getElementById('puzzle-of-the-day').textContent = data.title
+    }
+    catch(error){
+      console.error('Failed to fetch the daily puzzle:' , error);
+    }
+    
+        
+  }
+
+  // Fetch and display the puzzle when the page loads
+  window.onload = FetchandDisplay;
+
+  // Schedule the function to run daily
+  setInterval(FetchandDisplay, 24*60*60*1000); // 24 hours
+  
+</script>
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Mridul Jain</h1>
 <h3 align="center">An MLOps Engineer and wannabe Full Stack Developer from India</h3>
 
@@ -21,7 +56,7 @@
 
 - 📄 Know about my experiences [Click Here!!](https://drive.google.com/file/d/1927CJt_bnsjaLGY3PBBs9NQ9ZjrUB2sZ/view?usp=sharing)
 
-- ⚡ Fun fact **I think I want to pursue modelling if not being a developer**
+- ⚡ Fun fact **What do call a Moloch Horridus with 3 thorns? The ridiculous answer is at the end of this page**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
