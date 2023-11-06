@@ -1,3 +1,5 @@
+<h1 align="center"> Attempt a short quiz below before exploring the profile </h1>
+<h3 align="center"> <a href="https://quiz-app-blue-sigma.vercel.app/"> Click Here!! </a> </h3>
 <h1 align="center">Hi 👋, I'm Mridul Jain</h1>
 <h3 align="center">An MLOps Engineer and wannabe Full Stack Developer from India</h3>
 
