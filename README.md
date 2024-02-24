@@ -1,7 +1,5 @@
-<h1 align="center"> Attempt a short quiz below before exploring the profile </h1>
-<h2 align="center"> <a href="https://quiz-app-blue-sigma.vercel.app/"> Click Here!! </a> </h2>
 <h1 align="center">Hi 👋, I'm Mridul Jain</h1>
-<h3 align="center">An MLOps Engineer and wannabe Full Stack Developer from India</h3>
+<h3 align="center">An MLOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spinachboul&label=Profile%20views&color=0e75b6&style=flat" alt="spinachboul" /> </p>
 
@@ -9,21 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Skin Care using AI**
+- 🔭 I’m currently working on **Medical Imaging**
 
-- 🌱 I’m currently learning **Django and AWS**
+- 🌱 I’m currently learning **Julia**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 👨‍💻 All of my online portfolio is available at [Here!!](https://mridul-cv.vercel.app)
-
+- 
 - 📝 I regularly write articles on [Machine Learning and Data Science](Machine Learning and Data Science)
 
 - 📫 How to reach me **jain.mridul.20@gmail.com**
 
-- 📄 Know about my experiences [Click Here!!](https://drive.google.com/file/d/1EgmVJF8ZYOe4KRMWMRyvl_P3NffoqFQz/view?usp=sharing)
+- 📄 Know about my experiences [Click Here!!]([https://drive.google.com/file/d/1EgmVJF8ZYOe4KRMWMRyvl_P3NffoqFQz/view?usp=sharing](https://drive.google.com/file/d/1-MA7i5Zurb6NCqweDKdwvr_ByCgBPZr-/view))
 
-- ⚡ Fun fact **What do call a Moloch Horridus with 3 thorns? The ridiculous answer is at the end of this page**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
