@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly write articles on [Machine Learning and Data Science](Machine Learning and Data Science)
+- 📝 I regularly post content on latest technological trends <a href="https://www.instagram.com/teamtechnology2023/">Click Here to follow </a>
 
 - 📫 How to reach me **jain.mridul.20@gmail.com**
 
-- 📄 Know about my experiences [Click Here!!]([https://drive.google.com/file/d/1EgmVJF8ZYOe4KRMWMRyvl_P3NffoqFQz/view?usp=sharing](https://drive.google.com/file/d/1-MA7i5Zurb6NCqweDKdwvr_ByCgBPZr-/view))
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1-MA7i5Zurb6NCqweDKdwvr_ByCgBPZr-/view"> click Here </a>
 
 
 <h3 align="left">Connect with me:</h3>
