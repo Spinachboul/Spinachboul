@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Julia**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 
+
 - 📝 I regularly write articles on [Machine Learning and Data Science](Machine Learning and Data Science)
 
 - 📫 How to reach me **jain.mridul.20@gmail.com**
