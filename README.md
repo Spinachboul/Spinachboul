@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jain.mridul.20@gmail.com**
 
-- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1MZKF1N_aeBtghhmckat4ORMD4OYcO25F/view?usp=sharing" </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1MZKF1N_aeBtghhmckat4ORMD4OYcO25F/view?usp=sharing"> Resume </a>
 
 
 <h3 align="left">Connect with me:</h3>
