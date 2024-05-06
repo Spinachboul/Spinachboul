@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Medical Imaging**
+- 🔭 I’m currently working on **SaaS Tools**
 
 - 🌱 I’m currently learning **Julia**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jain.mridul.20@gmail.com**
 
-- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1-MA7i5Zurb6NCqweDKdwvr_ByCgBPZr-/view"> click Here </a>
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1MZKF1N_aeBtghhmckat4ORMD4OYcO25F/view?usp=sharing" </a>
 
 
 <h3 align="left">Connect with me:</h3>
