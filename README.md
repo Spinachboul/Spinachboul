@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **SaaS Tools**
+- 🔭 I’m currently working on **JAVA**
 
-- 🌱 I’m currently learning **Julia**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jain.mridul.20@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1MZKF1N_aeBtghhmckat4ORMD4OYcO25F/view?usp=sharing"> Resume </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1TKQXxZQK3Z2XcYdau_r2OlNAqNy6Ju-Q/view?usp=drive_link"> Resume </a>
 
 
 <h3 align="left">Connect with me:</h3>
