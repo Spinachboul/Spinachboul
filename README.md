@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly post content on latest technological trends <a href="https://www.instagram.com/teamtechnology2023/">Click Here to follow </a>
+- 📝 I regularly post content on latest technological trends <a href="https://www.instagram.com/teamtechnology2024/"> Click Here to follow </a>
 
 - 📫 How to reach me **jain.mridul.20@gmail.com**
 
