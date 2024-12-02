@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mridul Jain</h1>
-<h3 align="center">An MLOps Engineer and Software Developer from India</h3>
+<h3 align="center">A Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spinachboul&label=Profile%20views&color=0e75b6&style=flat" alt="spinachboul" /> </p>
 
@@ -7,17 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **JAVA**
+- 🔭 I’m currently working on **ML Forecasters**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Coding Patterns**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly post content on latest technological trends <a href="https://www.instagram.com/teamtechnology2024/"> Click Here to follow </a>
-
 - 📫 How to reach me **jain.mridul.20@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1TKQXxZQK3Z2XcYdau_r2OlNAqNy6Ju-Q/view?usp=drive_link"> Resume </a>
 
 
 <h3 align="left">Connect with me:</h3>
