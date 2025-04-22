@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ML Forecasters**
+- 🔭 I’m currently working on **MLOPS**
 
-- 🌱 I’m currently learning **Coding Patterns**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
