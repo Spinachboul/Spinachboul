@@ -11,6 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 Know more about me <strong><a href="https://portfolio-tau-seven-64hvm6s2l9.vercel.app/" target=_blank>Click Me!</a></strong>
+- 📫 Know more about me <strong><a href="https://portfolio-tau-seven-64hvm6s2l9.vercel.app/" target="_blank">Click Me!</a></strong>
 
 
