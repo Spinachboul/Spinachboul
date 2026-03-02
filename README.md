@@ -4,3 +4,7 @@
 # My GitHub Profile
 
 ![GitHub Terminal Stats](./template.svg)
+
+### My Contribution Snake 🐍
+
+![Snake animation](https://github.com/Spinachboul/Spinachboul/blob/output/github-contribution-grid-snake.svg)
