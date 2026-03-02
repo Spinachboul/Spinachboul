@@ -1,1 +1,26 @@
 
+name: Update My Stats
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every midnight
+  workflow_dispatch:      # Allows you to run it manually for testing
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: node updater.js
+        env:
+          GHT: ${{ secrets.GITHUB_TOKEN }} # Built-in token, no setup needed!
+      - name: Commit changes
+        run: |
+          git config --global user.name "Stats-Bot"
+          git config --global user.email "bot@github.com"
+          git add template.svg README.md
+          git commit -m "Updated stats" || exit 0
+          git push
