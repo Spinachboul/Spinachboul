@@ -22,7 +22,7 @@
         <tspan fill="#50fa7b">➜ </tspan>
         <tspan fill="#8be9fd">~ </tspan>
         <tspan fill="#f8f8f2">git fetch-stats --user </tspan>
-        <tspan fill="#ff79c6">{{USER}}</tspan>
+        <tspan fill="#ff79c6">Spinachboul</tspan>
       </text>
 
       <text x="45" y="110" fill="#6272a4" font-size="12">Fetching remote data...</text>
@@ -30,11 +30,11 @@
       <g fill="#f8f8f2">
         <text x="45" y="145" fill="#bd93f9">Total Repos</text>
         <text x="160" y="145">:</text>
-        <text x="180" y="145" font-weight="bold">{{REPOS}}</text>
+        <text x="180" y="145" font-weight="bold">61</text>
 
         <text x="45" y="165" fill="#bd93f9">Followers</text>
         <text x="160" y="165">:</text>
-        <text x="180" y="165" font-weight="bold">{{FOLLOWERS}}</text>
+        <text x="180" y="165" font-weight="bold">22</text>
 
         <text x="45" y="185" fill="#bd93f9">Status</text>
         <text x="160" y="185">:</text>
