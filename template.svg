@@ -1,1 +1,28 @@
+<svg width="500" height="230" viewBox="0 0 500 230" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="230" rx="10" fill="#1e1e1e"/>
+  
+  <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="20" r="6" fill="#27c93f"/>
+  <text x="80" y="25" fill="#888" font-family="monospace" font-size="12">zsh — 80x24</text>
+  
+  <g font-family="monospace" font-size="14" fill="#f8f8f2">
+    <text x="20" y="60">
+      <tspan fill="#50fa7b">user@github</tspan><tspan fill="#f8f8f2">:</tspan><tspan fill="#bd93f9">~</tspan><tspan fill="#f8f8f2">$ stats --fetch Spinachboul</tspan>
+    </text>
 
+    <text x="20" y="85" fill="#6272a4">Fetching data from API...</text>
+    <text x="20" y="105" fill="#f1fa8c">✓ Success!</text>
+
+    <g fill="#f8f8f2">
+      <text x="20" y="135">------------------------------</text>
+      <text x="20" y="155" fill="#bd93f9">  Repositories :</text> <text x="160" y="155">61</text>
+      <text x="20" y="175" fill="#bd93f9">  Followers     :</text> <text x="160" y="175">22</text>
+      <text x="20" y="195" fill="#bd93f9">  Gists         :</text> <text x="160" y="195">03</text>
+      <text x="20" y="215">------------------------------</text>
+    </g>
+  </g>
+  <rect x="400" y="48" width="8" height="15" fill="#f8f8f2">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+</rect>
+</svg>
